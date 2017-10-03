@@ -1,0 +1,8 @@
+*.hex
+TAGS
+FreeRTOS
+tags
+*.elf
+*.bin
+*.o
+*.map
